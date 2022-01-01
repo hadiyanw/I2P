@@ -1,0 +1,35 @@
+local_authority,Hotels_and_similar_accommodation,Holiday_and_other_short_stay_accommodation,Camping_grounds_recreational_vehicle_parks_and_trailer_parks,other_accomodation,Restaurants_and_mobile_food_service_activities,Event_catering_and_other_food_service_activities,Beverage_serving_activities,Travel_agency_and_tour_operator_activities,Other_reservation_service_and_related_activities,Creative_arts_and_entertainment_activities,Libraries_archives_museums_and_other_cultural_activities,Sports_activities,Amusement_and_recreation_activities
+Barking and Dagenham,0,0,0,0,250,60,25,20,5,25,0,10,5
+Barnet,40,15,0,10,625,115,70,95,15,390,5,135,55
+Bexley,5,0,0,5,305,40,80,20,5,40,0,55,15
+Brent,35,5,0,15,590,100,65,80,10,295,10,55,30
+Bromley,15,10,0,0,505,60,90,50,10,240,5,120,40
+Camden,135,45,0,25,915,110,150,125,35,1325,35,170,80
+City of London,50,10,0,35,290,30,60,60,20,325,10,85,40
+Croydon,40,5,0,10,570,130,80,50,5,190,0,105,15
+Ealing,35,15,0,15,540,125,70,90,20,335,5,85,30
+Enfield,20,10,0,5,475,80,55,45,10,145,0,80,15
+Greenwich,10,0,0,10,340,60,55,25,5,215,10,60,15
+Hackney,30,15,0,10,625,130,190,60,30,880,15,120,65
+Hammersmith and Fulham,50,20,0,5,420,75,65,80,10,425,5,100,30
+Haringey,15,5,0,10,490,70,70,40,5,540,5,80,40
+Harrow,35,10,0,10,355,65,40,75,10,130,0,70,15
+Havering,10,0,0,0,360,90,55,30,5,45,0,60,20
+Hillingdon,55,5,0,10,395,65,80,50,15,120,0,65,20
+Hounslow,40,10,0,5,395,70,65,75,15,225,10,125,30
+Islington,45,15,0,15,710,90,155,100,30,765,20,120,65
+Kensington and Chelsea,135,25,0,10,485,55,65,75,30,450,15,100,35
+Kingston upon Thames,10,5,0,5,285,30,40,50,15,130,5,75,20
+Lambeth,40,15,0,15,620,110,125,55,20,565,15,90,35
+Lewisham,15,5,0,5,465,75,95,20,5,395,10,55,30
+Merton,10,10,0,5,285,65,40,60,15,170,0,80,20
+Newham,25,0,0,10,440,75,45,65,10,95,0,50,15
+Redbridge,30,10,0,5,400,65,40,50,5,110,5,60,15
+Richmond upon Thames,25,10,0,5,350,45,85,65,10,455,5,155,45
+Southwark,35,10,0,20,665,100,130,60,20,685,15,95,65
+Sutton,5,0,0,5,295,60,40,20,5,75,0,45,15
+Tower Hamlets,30,10,0,15,700,105,120,115,20,385,15,90,45
+Waltham Forest,10,5,0,10,465,70,35,30,5,250,5,50,20
+Wandsworth,25,15,0,5,530,110,80,90,15,510,5,145,45
+Westminster,500,65,15,50,1480,130,295,250,105,2245,55,285,175
+Column Total,1560,380,20,355,16620,2665,2755,2180,535,13165,290,3065,1200
